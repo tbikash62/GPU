@@ -1,8 +1,8 @@
-# Install script for directory: F:/gpu/Opencl-ex1/Opencl-ex1
+# Install script for directory: F:/GPU/Opencl-ex1/Opencl-ex1
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "F:/gpu/Opencl-ex1/out/install/x64-Debug")
+  set(CMAKE_INSTALL_PREFIX "F:/GPU/Opencl-ex1/out/install/x64-Debug")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 

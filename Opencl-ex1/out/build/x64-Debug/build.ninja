@@ -39,7 +39,7 @@ include CMakeFiles\rules.ninja
 # Utility command for edit_cache
 
 build CMakeFiles\edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D F:\gpu\Opencl-ex1\out\build\x64-Debug && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  COMMAND = cmd.exe /C "cd /D F:\GPU\Opencl-ex1\out\build\x64-Debug && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -50,7 +50,7 @@ build edit_cache: phony CMakeFiles\edit_cache.util
 # Utility command for rebuild_cache
 
 build CMakeFiles\rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D F:\gpu\Opencl-ex1\out\build\x64-Debug && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" --regenerate-during-build -SF:\gpu\Opencl-ex1 -BF:\gpu\Opencl-ex1\out\build\x64-Debug"
+  COMMAND = cmd.exe /C "cd /D F:\GPU\Opencl-ex1\out\build\x64-Debug && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" --regenerate-during-build -SF:\GPU\Opencl-ex1 -BF:\GPU\Opencl-ex1\out\build\x64-Debug"
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -59,7 +59,7 @@ build rebuild_cache: phony CMakeFiles\rebuild_cache.util
 
 # =============================================================================
 # Write statements declared in CMakeLists.txt:
-# F:/gpu/Opencl-ex1/CMakeLists.txt
+# F:/GPU/Opencl-ex1/CMakeLists.txt
 # =============================================================================
 
 # =============================================================================
@@ -259,7 +259,7 @@ build Opencl-ex1\Opencl-ex1.exe: CXX_EXECUTABLE_LINKER__Opencl-ex1_Debug Opencl-
 # Utility command for edit_cache
 
 build Opencl-ex1\CMakeFiles\edit_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D F:\gpu\Opencl-ex1\out\build\x64-Debug\Opencl-ex1 && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  COMMAND = cmd.exe /C "cd /D F:\GPU\Opencl-ex1\out\build\x64-Debug\Opencl-ex1 && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -270,7 +270,7 @@ build Opencl-ex1\edit_cache: phony Opencl-ex1\CMakeFiles\edit_cache.util
 # Utility command for rebuild_cache
 
 build Opencl-ex1\CMakeFiles\rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = cmd.exe /C "cd /D F:\gpu\Opencl-ex1\out\build\x64-Debug\Opencl-ex1 && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" --regenerate-during-build -SF:\gpu\Opencl-ex1 -BF:\gpu\Opencl-ex1\out\build\x64-Debug"
+  COMMAND = cmd.exe /C "cd /D F:\GPU\Opencl-ex1\out\build\x64-Debug\Opencl-ex1 && "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" --regenerate-during-build -SF:\GPU\Opencl-ex1 -BF:\GPU\Opencl-ex1\out\build\x64-Debug"
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -290,14 +290,14 @@ build Opencl-ex1.exe: phony Opencl-ex1\Opencl-ex1.exe
 # =============================================================================
 
 #############################################
-# Folder: F:/gpu/Opencl-ex1/out/build/x64-Debug
+# Folder: F:/GPU/Opencl-ex1/out/build/x64-Debug
 
 build all: phony Opencl-ex1\all
 
 # =============================================================================
 
 #############################################
-# Folder: F:/gpu/Opencl-ex1/out/build/x64-Debug/Opencl-ex1
+# Folder: F:/GPU/Opencl-ex1/out/build/x64-Debug/Opencl-ex1
 
 build Opencl-ex1\all: phony Opencl-ex1\Opencl-ex1.exe
 

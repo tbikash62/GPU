@@ -1,8 +1,8 @@
-# Install script for directory: F:/gpu/Opencl-ex1
+# Install script for directory: F:/GPU/Opencl-ex1
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "F:/gpu/Opencl-ex1/out/install/x64-Debug")
+  set(CMAKE_INSTALL_PREFIX "F:/GPU/Opencl-ex1/out/install/x64-Debug")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -34,7 +34,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("F:/gpu/Opencl-ex1/out/build/x64-Debug/Opencl-ex1/cmake_install.cmake")
+  include("F:/GPU/Opencl-ex1/out/build/x64-Debug/Opencl-ex1/cmake_install.cmake")
 
 endif()
 
@@ -46,5 +46,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "F:/gpu/Opencl-ex1/out/build/x64-Debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "F:/GPU/Opencl-ex1/out/build/x64-Debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
