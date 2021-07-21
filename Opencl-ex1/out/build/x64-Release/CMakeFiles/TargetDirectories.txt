@@ -1,5 +1,0 @@
-D:/UNIVERSITY_OF_STUTTGART/COURSES_MATERIAL/SEM4/GPU_LAB/Opencl-ex1/out/build/x64-Release/CMakeFiles/edit_cache.dir
-D:/UNIVERSITY_OF_STUTTGART/COURSES_MATERIAL/SEM4/GPU_LAB/Opencl-ex1/out/build/x64-Release/CMakeFiles/rebuild_cache.dir
-D:/UNIVERSITY_OF_STUTTGART/COURSES_MATERIAL/SEM4/GPU_LAB/Opencl-ex1/out/build/x64-Release/Opencl-ex1/CMakeFiles/Opencl-ex1.dir
-D:/UNIVERSITY_OF_STUTTGART/COURSES_MATERIAL/SEM4/GPU_LAB/Opencl-ex1/out/build/x64-Release/Opencl-ex1/CMakeFiles/edit_cache.dir
-D:/UNIVERSITY_OF_STUTTGART/COURSES_MATERIAL/SEM4/GPU_LAB/Opencl-ex1/out/build/x64-Release/Opencl-ex1/CMakeFiles/rebuild_cache.dir
